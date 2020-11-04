@@ -1,0 +1,1 @@
+This repository holds all the work for the Codeup December 2020 cohort.
